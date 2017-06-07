@@ -6,7 +6,7 @@ public static void main(String args[])
 {
 Scanner jack=new Scanner(System.in);
 char j=jack.next();
-if(j=='a'||j=='e'||j=='i'||j=='o'||j=='u')
+if(j=='a' || j=='e' || j=='i'|| j=='o' || j=='u')
 {
 System.out.println("vowel");
 }
